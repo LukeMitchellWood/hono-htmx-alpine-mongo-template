@@ -1,0 +1,12 @@
+node_modules
+
+.env
+*.log
+
+package-lock.json
+
+testData
+src/Components
+src/Library
+src/Models
+static/img
